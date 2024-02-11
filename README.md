@@ -1,5 +1,16 @@
 # 💫 About Me:
-i am a computer science student located in germany<br>profeciency in python <br>looking for an internship <br>super hard working / motivated / active in a tech field and exited and open to learn new skills each day<br>
+
+<br>👨‍💻 Mahyar ST
+
+📍 Location: Germany
+
+🎓 As a dedicated Computer Science student based in Germany, Max Müller is driven by a passion for technology and innovation. Proficient in Python, he adeptly navigates through its complexities to develop efficient and scalable solutions.
+
+🔍 Currently seeking an internship opportunity, Max is eager to apply his skills in a real-world setting and contribute to impactful projects. His enthusiasm for learning drives him to stay actively engaged in the tech community, constantly seeking out new knowledge and skills to enhance his capabilities.
+
+💼 With a reputation for being hardworking and motivated, Max approaches every task with diligence and determination. His proactive attitude and eagerness to take on challenges make him a valuable asset in any tech environment.
+
+🚀 Excited about the ever-evolving nature of technology, Max embraces each opportunity to expand his skill set and contribute to the advancement of the field. With a blend of technical expertise and a thirst for knowledge, he is ready to embark on the next stage of his journey in the tech industry.day<br>
 
 
 ## 🌐 Socials:
