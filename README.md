@@ -1,17 +1,18 @@
 # 💫 About Me:
 
 <br>
-👨‍💻 Mahyar
+👋 Hello, I'm Mahyar
 
 📍 Location: Germany
 
-🎓 As a dedicated Computer Science student based in Germany, Mahyar is driven by a passion for technology and innovation. Proficient in Python, he adeptly navigates through its complexities to develop efficient and scalable solutions.
+🎓 As a Computer Science student based in Germany, I'm deeply passionate about technology and its potential to drive innovation. With a strong proficiency in Python, I enjoy crafting elegant solutions to complex problems.
 
-🔍 Currently seeking an internship opportunity, Mahyar is eager to apply his skills in a real-world setting and contribute to impactful projects. His enthusiasm for learning drives him to stay actively engaged in the tech community, constantly seeking out new knowledge and skills to enhance his capabilities.
+🔍 Currently, I'm actively seeking an internship opportunity to apply my skills in a real-world setting and contribute to meaningful projects. I'm not just looking for experience; I'm eager to make a tangible impact. Engaging with the tech community keeps me fueled with fresh insights and drives me to continuously expand my knowledge and skill set.
 
-💼 With a reputation for being hardworking and motivated, Mahyar approaches every task with diligence and determination. His proactive attitude and eagerness to take on challenges make him a valuable asset in any tech environment.
+💼 Known for my strong work ethic and motivation, I approach every challenge with determination and a willingness to learn. I thrive in dynamic environments and am always eager to take on new challenges and learn new skills.
 
-🚀 Excited about the ever-evolving nature of technology, Mahyar embraces each opportunity to expand his skill set and contribute to the advancement of the field. With a blend of technical expertise and a thirst for knowledge, he is ready to embark on the next stage of his journey in the tech industry.<br>
+🚀 The ever-evolving nature of technology excites me, and I'm enthusiastic about the opportunities it presents for growth and innovation. With a blend of technical expertise and a hunger for new discoveries, I'm ready to embark on the next stage of my journey in the tech industry. Join me as I strive to make a difference and leave my mark in the world of technology.
+<br>
 
 
 ## 🌐 Socials:
