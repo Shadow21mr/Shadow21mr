@@ -1,16 +1,17 @@
 # 💫 About Me:
 
-<br>👨‍💻 Mahyar ST
+<br>
+👨‍💻 Mahyar
 
 📍 Location: Germany
 
-🎓 As a dedicated Computer Science student based in Germany, Max Müller is driven by a passion for technology and innovation. Proficient in Python, he adeptly navigates through its complexities to develop efficient and scalable solutions.
+🎓 As a dedicated Computer Science student based in Germany, Mahyar is driven by a passion for technology and innovation. Proficient in Python, he adeptly navigates through its complexities to develop efficient and scalable solutions.
 
-🔍 Currently seeking an internship opportunity, Max is eager to apply his skills in a real-world setting and contribute to impactful projects. His enthusiasm for learning drives him to stay actively engaged in the tech community, constantly seeking out new knowledge and skills to enhance his capabilities.
+🔍 Currently seeking an internship opportunity, Mahyar is eager to apply his skills in a real-world setting and contribute to impactful projects. His enthusiasm for learning drives him to stay actively engaged in the tech community, constantly seeking out new knowledge and skills to enhance his capabilities.
 
-💼 With a reputation for being hardworking and motivated, Max approaches every task with diligence and determination. His proactive attitude and eagerness to take on challenges make him a valuable asset in any tech environment.
+💼 With a reputation for being hardworking and motivated, Mahyar approaches every task with diligence and determination. His proactive attitude and eagerness to take on challenges make him a valuable asset in any tech environment.
 
-🚀 Excited about the ever-evolving nature of technology, Max embraces each opportunity to expand his skill set and contribute to the advancement of the field. With a blend of technical expertise and a thirst for knowledge, he is ready to embark on the next stage of his journey in the tech industry.day<br>
+🚀 Excited about the ever-evolving nature of technology, Mahyar embraces each opportunity to expand his skill set and contribute to the advancement of the field. With a blend of technical expertise and a thirst for knowledge, he is ready to embark on the next stage of his journey in the tech industry.<br>
 
 
 ## 🌐 Socials:
